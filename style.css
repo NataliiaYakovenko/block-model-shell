@@ -1,0 +1,23 @@
+
+
+body {
+
+    height: 700px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(./assets/shell.jpg);
+    background-size: cover;
+    background-position:center;
+    color: #926239;
+    font-size: 20px;
+   
+}
+
+a {
+    color: #926239;
+    text-decoration: none;
+    border: 1px solid #926239;
+    padding: 8px;
+    border-radius: 7px;
+  
+}
