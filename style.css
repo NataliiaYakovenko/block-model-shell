@@ -3,30 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-.parent1 {
-    border:5px solid green;
-    font-size: 0;
-}
-.child1 {
-    border: 5px solid red;
-    display:inline-block;
-    width: 50%;
-    font-size: 40px;
-}
 
-.parent2 {
-    border:5px solid green;
-    font-size: 0;
-}
-.child2 {
-    border: 5px solid red;
-    display:inline-block;
-    width: 33.33%;
-    font-size: 40px;
-}
-
-
-/*body {
+body {
     display: flex;
     align-items: center; 
     justify-content: center;
@@ -34,30 +12,21 @@
     background-size: cover;
     background-position:center;
     height: 700px;
-   
-}
-
-
-
-/*body {
-
-    height: 700px;
-    text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: url(./assets/shell.jpg);
-    background-size: cover;
-    background-position:center;
+}
+div {
+    text-align: center;
     color: #926239;
-    font-size: 20px;
-   
-}*/
-
-/*a {
+}
+h1 {
+    font-size:40px;
+    line-height: 60px;
+}
+a {
     color: #926239;
     text-decoration: none;
     border: 1px solid #926239;
     padding: 8px;
-    border-radius: 7px;
-    
-  
-}*/
+    border-radius: 7px; 
+    line-height: 80px;
+}
